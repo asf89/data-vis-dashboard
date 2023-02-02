@@ -19,6 +19,7 @@
     ```
 
     **Note 1**: To get the `/path/to/python`, use `which python` or `which python3`
+
     **Note 2**: The minimum Python version to run this project is 3.8
 
 3. Install the dependencies:
