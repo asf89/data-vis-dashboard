@@ -15,6 +15,7 @@ openpyxl = "==3.0.10"
 lxml = "==4.9.1"
 dash = ">=2.8.1"
 plotly = ">=5.13.0"
+streamlit = ">=1.17.0"
 
 
 [dev-packages]
